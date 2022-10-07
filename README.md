@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 - 🚀 I'm Rishikesh Rachchh
-- 👀 I’m interested in DevOps, Web Development and Machine Learning
-- 🌱 I’m pursuing B.Tech at [VNIT Nagpur](https://vnit.ac.in/) (batch of 2022)
+- 🌱 I’m a B.Tech undergrad from [VNIT Nagpur](https://vnit.ac.in/) (batch of 2022)
+- 👀 I’m working at Oracle, for Fusion Analytics Warehouse
 - 🎸 I love playing the guitar and making music in my free time!
 - 📫 You can reach me at my [LinkedIn profile](https://linkedin.com/rishikesh-rachchh/) or at [my e-mail](mailto:rishikeshrachchh@gmail.com)
 
