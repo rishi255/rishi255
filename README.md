@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 - 🚀 I'm Rishikesh Rachchh
-- 🌱 I’m a B.Tech undergrad from [VNIT Nagpur](https://vnit.ac.in/) (batch of 2022)
-- 👀 I’m working at Oracle, for Fusion Analytics Warehouse
+- 🌱 I’m a B.Tech undergrad from [NIT Nagpur](https://vnit.ac.in/) (batch of 2022)
+- 👀 I’m working at Oracle, for [Fusion Data Intelligence Platform](https://www.oracle.com/in/business-analytics/fusion-data-intelligence-platform/)
 - 🎸 I love playing the guitar and making music in my free time!
 - 📫 You can reach me at my [LinkedIn profile](https://linkedin.com/rishikesh-rachchh/) or at [my e-mail](mailto:rishikeshrachchh@gmail.com)
 
