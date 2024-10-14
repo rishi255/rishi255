@@ -4,7 +4,7 @@
 - 🌱 I’m a B.Tech undergrad from [NIT Nagpur](https://vnit.ac.in/) (batch of 2022)
 - 👀 I’m working at Oracle, for [Fusion Data Intelligence Platform](https://www.oracle.com/in/business-analytics/fusion-data-intelligence-platform/)
 - 🎸 I love playing the guitar and making music in my free time!
-- 📫 You can reach me at my [LinkedIn profile](https://linkedin.com/rishikesh-rachchh/) or at [my e-mail](mailto:rishikeshrachchh@gmail.com)
+- 📫 You can reach me at my [LinkedIn profile](https://linkedin.com/in/rishikesh-rachchh/) or at [my e-mail](mailto:rishikeshrachchh@gmail.com)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi255&theme=algolia&title_color=89cff0&include_all_commits=true&count_private=true&show_icons=true" height="170px" alt="Rishikesh's GitHub stats" />
